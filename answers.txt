@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+Answer: finance, as you are able to read and understand the data to get a better look and understanding of the market.
+
