@@ -6,3 +6,6 @@ Answer: finance, as you are able to read and understand the data to get a better
 
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging combines changes from two branches to 1 with an one more commit, rebasing commits from one branch to another.
+
+Q4: What are you looking foward to this semester?
+Answer: I'm looking foward to learning data science from scratch!
